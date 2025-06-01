@@ -27,16 +27,6 @@ _Link will be added after publication._
 4. Click **"Load Unpacked"**
 5. Select the folder containing this repo
 
----
-
-## Project Files
-
-- `manifest.json` — Extension configuration
-- `content.js` — Core logic that rewrites the search query
-- `icons/` — Extension icons (16x16, 48x48, 128x128)
-
----
-
 ## How It Works
 
 When a user searches something on Google, the content script runs **at `document_start`**. If the search query doesn't already contain `-ai`, it appends it and redirects the user *before* the original page loads, saving bandwidth and skipping AI-indexed content.
