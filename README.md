@@ -33,18 +33,6 @@ When a user searches something on Google, the content script runs **at `document
 
 No background script, no form event listeners, no user tracking.
 
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-GitHub: [https://github.com/stamley]
-
----
-
 ## Future Improvements
 
 - Option to customize the appended filter term
