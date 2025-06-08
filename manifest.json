@@ -3,7 +3,6 @@
   "name": "True Google AI removal",
   "version": "1.0",
   "description": "Appends -ai to every Google search, preventing AI search instead of just hiding it",
-  "permissions": ["scripting"],
   "icons": {
     "16": "icons/minusAI16.png",
     "48": "icons/minusAI48.png",
