@@ -17,7 +17,7 @@ Append "-ai" to your searches to remove the obnoxious Google AI overview. Unlike
 
 ### From Chrome Web Store
 
-_Link will be added after publication._
+https://github.com/stamley/True-Google-AI-removal
 
 ### Manual Installation
 
